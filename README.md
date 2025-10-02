@@ -1,12 +1,57 @@
-# React + Vite
+# 🌟 Zia Codes — React Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vite-4-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/>
+</p>
 
-Currently, two official plugins are available:
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=3F7FBF&center=true&vCenter=true&width=600&lines=Interactive+React+Web+App;Dark+%2F+Light+Mode+Toggle;Forms+with+Real-time+Alerts;Built+with+Vite+%26+TailwindCSS" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+[👉 View Live on GitHub Pages](https://zia-codes.github.io/react-web)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshot-home.png" alt="Homepage Screenshot" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshot-about.png" alt="About Page Screenshot" width="800"/>
+</p>
+
+---
+
+## ✨ Features
+- 🌗 **Dark/Light Mode Toggle**  
+- ⚡ **Real-time Alerts**  
+- 📝 **Interactive Forms**  
+- 🔀 **Client-side Routing** with React Router  
+- 🎨 **Framer Motion Animations** + Tailwind CSS UI  
+
+---
+
+## 🛠 Tech Stack
+- React (Vite)  
+- Tailwind CSS  
+- React Router  
+- Framer Motion  
+
+---
+
+## 💻 Run Locally
+
+```bash
+git clone https://github.com/zia-codes/react-web.git
+cd react-web
+npm install
+npm run dev
