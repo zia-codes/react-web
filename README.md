@@ -25,7 +25,7 @@
 ![Home Page](assets/screenshot.png)
 
 ### About Page
-![About Page](assets/About.png)
+![About Page](assets-aboutt.png)
 
 
 ---
