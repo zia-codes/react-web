@@ -22,7 +22,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/Home.png)
+![Home Page](assets/screenshot.png)
 
 ### About Page
 ![About Page](assets/About.png)
