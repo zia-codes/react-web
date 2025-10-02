@@ -19,15 +19,14 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-<p align="center">
-  <img src="assets/screenshot-home.png" alt="Homepage Screenshot" width="800"/>
-</p>
+### Home Page
+![Home Page](assets/Home.png)
 
-<p align="center">
-  <img src="assets/screenshot-about.png" alt="About Page Screenshot" width="800"/>
-</p>
+### About Page
+![About Page](assets/About.png)
+
 
 ---
 
