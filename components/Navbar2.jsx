@@ -13,7 +13,7 @@ function Navbar2({ title, mode, toggleMode }) {
         <div className="flex items-center justify-between h-16">
           {/* Left: Logo + Title */}
           <Link to="/" className="flex items-center space-x-2">
-            <img src="/favicon.png" alt="Logo" className="w-8 h-8" />
+         
             <span className="text-xl font-bold">Zia-codes</span>
           </Link>
 

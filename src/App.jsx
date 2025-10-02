@@ -1,6 +1,6 @@
 // App.jsx
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar2 from "../components/Navbar2";
 import Alert from "../components/Alert";
 import About from "../components/About";
