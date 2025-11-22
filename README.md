@@ -1,4 +1,4 @@
-# 🌟 Zia Codes — React Web App
+# 🌟 Zia Codes - React Web App
 
 <p align="center">
   <!-- Badges -->
